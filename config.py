@@ -1,0 +1,3 @@
+CHAR_LIMIT = 10000
+MAX_ITERS = 20
+WORKING_DIR = "./calculator"
